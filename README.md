@@ -47,4 +47,5 @@ Para rodar o Stable Diffusion em português, você precisa ir em:
 Pronto! Agora o Stable Diffusion estará em português.
 
 Obs 1: apesar do link ficar disponível por 72h, se a página do notebook de colaboração ficar sem atividade por muito tempo, o acesso é cortado e o Stable Diffusion vai parar de rodar.
+
 Obs 2: você pode rodar este fork várias vezes sem que arquvios duplicados sejam gerados.
