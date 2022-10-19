@@ -8,8 +8,8 @@ Abrir o Google Colab Notebook [![Open In Colab](https://colab.research.google.co
 <h1 align="center">Pré-Requisitos</h1>
 
 1. [Conta Google](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp), para acessar o Google Drive (as imagens geradas vão para lá).
-2. Criar uma conta no [HuggingFace](https://huggingface.co/)(precisa confirmar por e-mail).
-3. Em settings > Access Tokens, criar um novo token (pode ser o nome que você quiser e escolha a opção "write").
+2. Criar uma conta no [HuggingFace](https://huggingface.co/) (precisa confirmar por e-mail).
+3. Em `settings` > `Access Tokens`, criar um novo token (pode ser o nome que você quiser e escolha a opção "write").
 
 <h1 align="center">Instalação</h1>
 
