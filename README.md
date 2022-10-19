@@ -34,12 +34,17 @@ Basta rodar a célula. Ela fará com que o processamento exija menos dos noteboo
 
 ### Iniciar Stable Diffusion - Copiar a url gerada para usar em qualquer navegador
 Aqui vai gerar um link para você acessar em qualquer navegador, incluindo smartphones.
+A interface ainda estará em inglês.
 
 ### Selecionar idioma
 Para rodar o Stable Diffusion em português, você precisa ir em:
 1. `settings`, e rolar até a opção `localizations`.
 2. Selecione a opção `localizationpt`.
-3. Role até o final e 
+3. Vá até o final e clique em `Reload Gradio and update components`.
+4. No topo da aba, clique em `Apply Settings`.
+5. Feche o link e rode a célula `Iniciar Stable Diffusion` novamente.
+
+Pronto! Agora o Stable Diffusion estará em português.
 
 Obs 1: apesar do link ficar disponível por 72h, se a página do notebook de colaboração ficar sem atividade por muito tempo, o acesso é cortado e o Stable Diffusion vai parar de rodar.
 Obs 2: você pode rodar este fork várias vezes sem que arquvios duplicados sejam gerados.
