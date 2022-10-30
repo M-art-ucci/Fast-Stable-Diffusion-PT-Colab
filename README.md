@@ -3,7 +3,7 @@
 
 Esta é uma bifurcação do repositório de [TheLastBen](https://github.com/TheLastBen/fast-stable-diffusion/).
 
-Abrir o Google Colab Notebook [![Open In Colab](https://colab.research.google.com/github/M-art-ucci/localization-pt-for-A1111-webui/blob/main/Instala%C3%A7%C3%A3o_do_Stable_Diffusion_em_Portugu%C3%AAs.ipynb)]
+Abrir o Google Colab Notebook [![Open In Colab]([https://colab.research.google.com/github/M-art-ucci/localization-pt-for-A1111-webui/blob/main/Instala%C3%A7%C3%A3o_do_Stable_Diffusion_em_Portugu%C3%AAs.ipynb](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb))
 
 <h1 align="center">Pré-Requisitos</h1>
 
